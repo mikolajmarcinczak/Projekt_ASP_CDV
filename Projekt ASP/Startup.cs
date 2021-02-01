@@ -10,25 +10,50 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.FileProviders;
+using Microsoft.Extensions.Configuration;
+using Projekt_ASP.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 
 namespace Projekt_ASP
 {
     public class Startup
     {
-        // This method gets called by the runtime. Use this method to add services to the container.
-        // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
-        public void ConfigureServices(IServiceCollection services)
+        public Startup(IConfiguration configuration)
         {
-            services.AddSession();
-            services.AddMvc(option => 
-            option.EnableEndpointRouting = false
-            );
+            Configuration = configuration;
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        public IConfiguration Configuration { get; }
+
+        public void ConfigureServices(IServiceCollection services)
+        {
+            services.AddDistributedMemoryCache();
+
+            services.ConfigureApplicationCookie(options =>
+                options.ExpireTimeSpan = TimeSpan.FromMinutes(30)
+            );
+
+            services.AddSession(options =>
+            {
+                options.Cookie.IsEssential = true;
+                options.IdleTimeout = TimeSpan.FromMinutes(30);
+            });
+
+            services.AddMvc(option =>
+                option.EnableEndpointRouting = false
+            );
+
+            string connectionString = Configuration.GetConnectionString("default");
+            services.AddDbContext<AppDbContext>(c => c.UseSqlServer(connectionString));
+            services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
+        }
+
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             app.UseStaticFiles();
+            app.UseAuthentication();
+            app.UseAuthorization();
 
             if (env.IsDevelopment())
             {
@@ -42,10 +67,7 @@ namespace Projekt_ASP
             app.UseRouting();
 
             app.UseSession();
-            app.UseMvc(routes => {
-                routes.MapRoute("Names", "Sub/{action=Names}/{id?}", new { controller = "Sub" });
-                routes.MapRoute("Default", "{controller=Home}/{action=Index}/{id?}");
-            });
+            app.UseMvcWithDefaultRoute();
         }
     }
 }

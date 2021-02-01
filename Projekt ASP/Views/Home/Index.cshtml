@@ -1,18 +1,15 @@
-﻿@model Projekt_ASP.Models.Movie 
-@{ 
-    Layout = null;
+﻿@{
+    ViewData["Title"] = "Strona główna";
 }
 
-<!DOCTYPE html>
-
-<html>
-<head>
-    <meta name="viewport" content="width="device-width />
-    <title>@Model.Title</title>
-</head>
-<body>
-
-    The movie <b>@Model.Title</b> was released @Model.ReleaseDate.ToLongDateString();
-
-</body>
-</html>
+<div class="text-center">
+    <h1 class="display-4">Witaj!</h1>
+    <div class="row text-justify">
+        <div class="col-md-6 mt-5">
+            <p class="align-middle" style="font-size: 18px">Strona powstała na potrzeby projektu zaliczeniowego z Systemów zarządzania treścią portali internetowych. Została wykonana z użyciem technologii ASP.NET Core 3.1, więc spełnia najnowsze standardy. Pomysł na Bookweb istniał w mojej głowie już od wielu miesięcy. Jako, że brak mi takiego, przynajmniej popularnego rozwiązania w internecie postanowiłem utworzyć aplikację umożliwiającą mi przegląd mojej biblioteczki książek wraz z podstawowymi informacjami na ich temat. Być może w przyszłości dodam system oceniania, czy nawet dynamicznie wyszukiwane odnośniki do popularnych recenzji. </p>
+        </div>
+        <div class="col-md-6">
+            <img src="~/images/NET_Core_Logo.svg" class="img-fluid" alt="NET_CORE_logo" style="width:400px;height:400px;" />
+        </div>
+    </div>
+</div>
