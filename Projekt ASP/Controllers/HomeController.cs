@@ -15,6 +15,7 @@ namespace Projekt_ASP.Controllers
         {
             return View();
         }
+        [AllowAnonymous]
         public IActionResult Info()
         {
             return View();
