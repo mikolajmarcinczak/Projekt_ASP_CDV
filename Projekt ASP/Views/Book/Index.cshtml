@@ -11,12 +11,10 @@
                     <tr>
                         <th>Tytuł</th>
                         <th>Autor</th>
-                        <th style="width: 360px;">Opis</th>
-                        <th>Obrazek</th>
+                        <th>Okładka</th>
                         <th colspan="2">Rok wydania(dd-mm-yyyy)</th>
-
                     </tr>
-                    @using (var form = Html.BeginForm("CreateUpdate", "Book", FormMethod.Post))
+                    @using (var form = Html.BeginForm("CreateUpdate", "Book", FormMethod.Post, new { enctype = "multipart/form-data" }))
                         {
                             <tr>
                                 <th>
@@ -32,12 +30,7 @@
                                 </th>
                                 <th>
                                     <div class="input-group">
-                                        @Html.TextBoxFor(model => model.EditableItem.Description, new { @class = "form-control" })
-                                    </div>
-                                </th>
-                                <th>
-                                    <div class="input-group">
-                                        @Html.TextBoxFor(model => model.EditableItem.ImagePath, new { @class = "form-control", @type = "file" })
+                                        @Html.TextBoxFor(model => model.file, new { @class = "form-control", @type = "file", @name = "file" })
                                     </div>
                                 </th>
                                 <th>
@@ -47,10 +40,20 @@
                                 </th>
                                 <th>
                                     <div class="input-group-append">
-                                        <button type="submit" class="btn btn-success">@(Model.EditableItem.Id > 0 ? "Update" : "Add")</button>
+                                        <button type="submit" class="btn btn-success">@(Model.EditableItem.Id > 0 ? "Aktualizuj" : "Dodaj")</button>
                                     </div>
                                 </th>
                                 @Html.ValidationSummary()
+                            </tr>
+                            <tr>
+                                <th>
+                                    Opis
+                                </th>
+                                <th colspan="4">
+                                    <div class="input-group">
+                                        @Html.TextBoxFor(model => model.EditableItem.Description, new { @class = "form-control" })
+                                    </div>
+                                </th>
                             </tr>
                          }
                 </thead>
@@ -58,9 +61,9 @@
                     @foreach (var item in Model.Bookshelf)
                     {
                     <tr>
-                        <td>
+                        <td colspan="2">
                             <input type="checkbox" checked="@item.IsRead" onclick="window.location.href = '/Book/ToggleIsRead/@item.Id';" />
-                            <a href="/Book/Edit/@item.Id">
+                            <a href="/Book/Info/@item.Id">
                                 @item.Title
                             </a>
                         </td>
@@ -68,16 +71,10 @@
                             @item.Author.ToString()
                         </td>
                         <td class="text-right">
-                            @item.Description.ToString()
-                        </td>
-                        <td class="text-right">
-                            <img src="images/@item.ImagePath.ToString()" style="width:80px;">
-                        </td>
-                        <td class="text-right">
                             @item.ReleaseDate.ToString("yyyy")
                         </td>
                         <td class="text-center">
-                            <a href="/Book/Delete/@item.Id" onclick="return confirm('Are you sure?');" class="btn btn-sm btn-danger">Delete</a>
+                            <a href="/Book/Delete/@item.Id" onclick="return confirm('Are you sure?');" class="btn btn-sm btn-danger">Usuń</a>
                         </td>
                     </tr>
                     }

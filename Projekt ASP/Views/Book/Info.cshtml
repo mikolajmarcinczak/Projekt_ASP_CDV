@@ -1,0 +1,74 @@
+﻿@model Projekt_ASP.Models.BookViewModel
+@{
+    ViewData["Title"] = Model.EditableItem.Title;
+}
+<style>
+    #image {
+        width: 260px;
+    }
+    .table td #image {
+        display: block;
+        margin: 0 auto;
+    }
+    .btn-action {
+        margin: 0 auto;
+        padding: 10px;
+        width: 140px;
+    }
+</style>
+<div class="table-responsive">
+    <table class="table table-striped table-bordered table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>
+                    <h5>Okładka</h5>
+                </th>
+                <th colspan="2">
+                    <h5>Tytuł</h5>
+                </th>
+                <th>
+                    <h5>Autor</h5>
+                </th>
+                <th>
+                    <h5>Rok wydania</h5>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="4">
+                    <img src="~/images/@Model.EditableItem.ImagePath" id="image" />
+                </td>
+                <td style="width: 140px;">
+                    <label for="isread">Przeczytane?</label>
+                    <input type="checkbox" checked="@Model.EditableItem.IsRead" id="isread" onclick="window.location.href = '/Book/ToggleIsRead/@Model.EditableItem.Id';" />
+                </td>
+                <td>
+                    @Model.EditableItem.Title
+                </td>
+                <td>
+                    @Model.EditableItem.Author
+                </td>         
+                <td>
+                    @Model.EditableItem.ReleaseDate.ToString("yyyy")
+                </td>
+            </tr>
+            <tr style="height: 280px;">
+                <td class="table-dark text-center">
+                    Opis:
+                </td>
+                <td colspan="3">
+                    @Model.EditableItem.Description
+                </td>
+            </tr>
+            <tr style="height: 60px;">
+                <td class="text-center" colspan="2">
+                    <a href="/Book/Delete/@Model.EditableItem.Id" onclick="return confirm('Are you sure?');" class="btn btn-sm btn-danger btn-action">Usuń</a>
+                </td>
+                <td class="text-center" colspan="2">
+                    <a href="/Book/Edit/@Model.EditableItem.Id" onclick="return confirm('Are you sure?');" class="btn btn-sm btn-success btn-action">Edytuj</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

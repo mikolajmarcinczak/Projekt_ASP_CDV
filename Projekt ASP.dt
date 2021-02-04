@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT1H20M14.7022682S" SolutionTotalViewTime="PT1H42M0.0954849S" SolutionTotalDebugTime="PT5M16.7026052S">
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT2H39M5.814956S" SolutionTotalViewTime="PT4H46M12.3111331S" SolutionTotalDebugTime="PT11M16.5646186S">
   <FileVersion>
     <Major>1</Major>
     <Minor>0</Minor>
@@ -14,202 +14,22 @@
   </ProjectsCreatedDateList>
   <SessionTimeList />
   <LastSessionTimeList>
-    <DevTrackerDataItem ViewActiveTime="PT2M48.9644754S" EditActiveTime="PT42.8642183S">
-      <ModifiedDate>2021-01-21T16:24:05.1949035+01:00</ModifiedDate>
-      <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Shared\_Layout.cshtml</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
-      <CreatedDate>2021-01-21T14:11:50.9499402+01:00</CreatedDate>
-      <ViewedBy>mikol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT0.6592201S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT2M7.7809511S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Shared\_ValidationScriptsPartial.cshtml</Item>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\BookController.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
-      <CreatedDate>2021-01-21T14:11:50.289722+01:00</CreatedDate>
-      <ViewedBy>mikol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5.117498S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Models\AppDBContext\AppDbContext.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
-      <CreatedDate>2021-01-21T15:26:11.0974169+01:00</CreatedDate>
-      <ViewedBy>mikol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M25.9068738S" EditActiveTime="PT4M5.0233559S">
-      <ModifiedDate>2021-01-21T16:08:02.5814396+01:00</ModifiedDate>
-      <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Models\Book.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
-      <CreatedDate>2021-01-21T16:01:50.2934529+01:00</CreatedDate>
-      <ViewedBy>mikol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT9M9.7102478S" EditActiveTime="PT3M24.3076793S">
-      <ModifiedDate>2021-01-21T16:41:43.2790555+01:00</ModifiedDate>
-      <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\BooksController.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
-      <CreatedDate>2021-01-21T16:14:31.0782362+01:00</CreatedDate>
-      <ViewedBy>mikol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M50.0499658S" EditActiveTime="PT3M29.5356856S">
-      <ModifiedDate>2021-01-21T16:41:11.2689597+01:00</ModifiedDate>
-      <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\ViewModels\BookViewModel.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
-      <CreatedDate>2021-01-21T16:08:49.3781309+01:00</CreatedDate>
-      <ViewedBy>mikol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT36.2887808S" EditActiveTime="PT47.0605023S">
-      <ModifiedDate>2021-01-21T15:55:29.6692296+01:00</ModifiedDate>
-      <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Helpers\DbHelper.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
-      <CreatedDate>2021-01-21T15:54:24.4665593+01:00</CreatedDate>
-      <ViewedBy>mikol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3M55.4389381S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>Debug Mode</Item>
-      <ItemType>DebugModeItem</ItemType>
-      <ProjectName />
-      <CreatedDate>2021-01-21T15:22:23.2857174+01:00</CreatedDate>
-      <ViewedBy>mikol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5.480283S" EditActiveTime="PT15.6199618S">
-      <ModifiedDate>2021-01-21T15:24:40.7132468+01:00</ModifiedDate>
-      <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\HomeController.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
-      <CreatedDate>2021-01-21T15:24:22.5413502+01:00</CreatedDate>
-      <ViewedBy>mikol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4M41.4599531S" EditActiveTime="PT2M58.2736575S">
-      <ModifiedDate>2021-01-21T16:42:13.148108+01:00</ModifiedDate>
-      <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Books\Index.cshtml</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
-      <CreatedDate>2021-01-21T16:18:44.7013997+01:00</CreatedDate>
-      <ViewedBy>mikol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT6.7125267S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Home\Index.cshtml</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
-      <CreatedDate>2021-01-21T16:20:56.3916434+01:00</CreatedDate>
-      <ViewedBy>mikol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT59.1945279S" EditActiveTime="PT12.2449619S">
-      <ModifiedDate>2021-01-21T15:27:20.4736966+01:00</ModifiedDate>
-      <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\ViewModels\LoginViewModel.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
-      <CreatedDate>2021-01-21T15:27:05.2908797+01:00</CreatedDate>
-      <ViewedBy>mikol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT19.2621389S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Models\Movie.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
-      <CreatedDate>2021-01-21T16:01:25.0058797+01:00</CreatedDate>
-      <ViewedBy>mikol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M3.6009711S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Program.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
-      <CreatedDate>2021-01-21T15:57:09.4732038+01:00</CreatedDate>
-      <ViewedBy>mikol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3.4835276S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Account\Register.cshtml</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
-      <CreatedDate>2021-01-21T16:21:46.3168846+01:00</CreatedDate>
-      <ViewedBy>mikol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT24.3249744S" EditActiveTime="PT24.7490034S">
-      <ModifiedDate>2021-01-21T15:27:03.5572033+01:00</ModifiedDate>
-      <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\ViewModels\RegisterViewModel.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
-      <CreatedDate>2021-01-21T15:26:16.2154142+01:00</CreatedDate>
-      <ViewedBy>mikol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT9M25.0038859S" EditActiveTime="PT2M14.4950877S">
-      <ModifiedDate>2021-01-21T16:49:27.061464+01:00</ModifiedDate>
-      <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Startup.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
-      <CreatedDate>2021-01-21T15:29:25.3198362+01:00</CreatedDate>
-      <ViewedBy>mikol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT49.415688S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.AspNetUsers.sql</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName />
-      <CreatedDate>2021-01-21T15:25:49.8542759+01:00</CreatedDate>
+      <CreatedDate>2021-02-04T16:09:09.480533+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
   </LastSessionTimeList>
   <TotalTimeList>
-    <DevTrackerDataItem ViewActiveTime="PT13.4768382S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT1M4.885628S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Migrations\20210121111315_IdentityDBUser.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
@@ -226,55 +46,55 @@
       <CreatedDate>2021-01-21T13:28:16.7610375+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT9M42.434596S" EditActiveTime="PT3M23.474804S">
-      <ModifiedDate>2021-01-21T16:24:05.1949035+01:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT11M17.9150313S" EditActiveTime="PT5M17.7578906S">
+      <ModifiedDate>2021-02-01T19:09:32.5558736+01:00</ModifiedDate>
       <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>2</EditedCount>
-      <ViewedCount>2</ViewedCount>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>3</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Shared\_Layout.cshtml</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
       <CreatedDate>2021-01-21T13:36:20.248211+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT23.5862392S" EditActiveTime="PT0.6518826S">
+    <DevTrackerDataItem ViewActiveTime="PT24.7583768S" EditActiveTime="PT0.6518826S">
       <ModifiedDate>2021-01-21T14:06:58.6277843+01:00</ModifiedDate>
       <ModifiedBy>mikol</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>2</ViewedCount>
+      <ViewedCount>3</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Shared\_ValidationScriptsPartial.cshtml</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
       <CreatedDate>2021-01-21T14:06:48.0216503+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M1.116841S" EditActiveTime="PT12.6681854S">
+    <DevTrackerDataItem ViewActiveTime="PT3M4.366237S" EditActiveTime="PT12.6681854S">
       <ModifiedDate>2021-01-21T14:05:25.8487289+01:00</ModifiedDate>
       <ModifiedBy>mikol</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\_ViewImports.cshtml</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
       <CreatedDate>2021-01-21T14:05:01.3403403+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT26.0086138S" EditActiveTime="PT0.8453905S">
+    <DevTrackerDataItem ViewActiveTime="PT28.5668192S" EditActiveTime="PT0.8453905S">
       <ModifiedDate>2021-01-21T14:04:14.1023782+01:00</ModifiedDate>
       <ModifiedBy>mikol</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\_ViewStart.cshtml</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
       <CreatedDate>2021-01-21T14:04:10.740982+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3M45.5506228S" EditActiveTime="PT9M25.0934293S">
+    <DevTrackerDataItem ViewActiveTime="PT6M34.5156104S" EditActiveTime="PT9M25.0934293S">
       <ModifiedDate>2021-01-21T13:35:31.9926565+01:00</ModifiedDate>
       <ModifiedBy>mikol</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>4</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\AccountController.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
@@ -292,20 +112,20 @@
       <CreatedDate>2021-01-21T12:08:46.4241208+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT19.2680114S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT11M9.2687315S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>2</ViewedCount>
+      <ViewedCount>4</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Models\AppDBContext\AppDbContext.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
       <CreatedDate>2021-01-21T12:18:01.6655203+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3.3331436S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT6.3850177S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Migrations\AppDbContextModelSnapshot.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
@@ -323,33 +143,44 @@
       <CreatedDate>2021-01-21T11:55:21.2691062+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M25.9068738S" EditActiveTime="PT4M5.0233559S">
-      <ModifiedDate>2021-01-21T16:08:02.5814396+01:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT3M29.8500241S" EditActiveTime="PT5M59.5438708S">
+      <ModifiedDate>2021-02-01T20:44:35.263523+01:00</ModifiedDate>
       <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>5</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Models\Book.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
       <CreatedDate>2021-01-21T16:01:50.2934529+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT9M9.7037584S" EditActiveTime="PT3M24.3076793S">
-      <ModifiedDate>2021-01-21T16:41:43.2790555+01:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT39M1.7340418S" EditActiveTime="PT30M38.5461972S">
+      <ModifiedDate>2021-02-04T15:58:47.7500415+01:00</ModifiedDate>
       <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <EditedCount>4</EditedCount>
+      <ViewedCount>6</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\BookController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T15:37:30.2926012+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT36M14.8711161S" EditActiveTime="PT5M23.5876178S">
+      <ModifiedDate>2021-02-01T15:31:43.8253354+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\BooksController.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
       <CreatedDate>2021-01-21T16:14:31.0782362+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M50.0499658S" EditActiveTime="PT3M29.5356856S">
-      <ModifiedDate>2021-01-21T16:41:11.2689597+01:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT6M7.5045064S" EditActiveTime="PT4M36.7017613S">
+      <ModifiedDate>2021-02-04T15:57:26.846394+01:00</ModifiedDate>
       <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>4</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\ViewModels\BookViewModel.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
@@ -367,58 +198,91 @@
       <CreatedDate>2021-01-20T23:46:54.8027812+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT36.2887808S" EditActiveTime="PT47.0605023S">
+    <DevTrackerDataItem ViewActiveTime="PT4M2.2191695S" EditActiveTime="PT47.0605023S">
       <ModifiedDate>2021-01-21T15:55:29.6692296+01:00</ModifiedDate>
       <ModifiedBy>mikol</ModifiedBy>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Helpers\DbHelper.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
       <CreatedDate>2021-01-21T15:54:24.4665593+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5M16.7026052S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT11M16.5646186S" EditActiveTime="PT29M32.5180247S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>2</ViewedCount>
+      <EditedCount>4</EditedCount>
+      <ViewedCount>7</ViewedCount>
       <Item>Debug Mode</Item>
       <ItemType>DebugModeItem</ItemType>
       <ProjectName />
       <CreatedDate>2021-01-21T13:39:15.2446028+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT7M25.7929645S" EditActiveTime="PT15M34.0159762S">
-      <ModifiedDate>2021-01-21T15:24:40.7132468+01:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT9M47.8259828S" EditActiveTime="PT15M56.7295965S">
+      <ModifiedDate>2021-02-01T19:10:46.200556+01:00</ModifiedDate>
       <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>3</EditedCount>
-      <ViewedCount>4</ViewedCount>
+      <EditedCount>4</EditedCount>
+      <ViewedCount>7</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\HomeController.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
       <CreatedDate>2021-01-20T23:53:01.4343607+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M5.995222S" EditActiveTime="PT1.3067669S">
-      <ModifiedDate>2021-01-21T13:40:15.4527657+01:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT4M22.2546331S" EditActiveTime="PT6M24.5959512S">
+      <ModifiedDate>2021-02-01T17:41:18.7975562+01:00</ModifiedDate>
       <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>2</ViewedCount>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>3</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Home\Index.cshtml</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
       <CreatedDate>2021-01-21T13:29:01.9854753+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4M41.4599531S" EditActiveTime="PT2M58.2736575S">
-      <ModifiedDate>2021-01-21T16:42:13.148108+01:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT9M35.6103045S" EditActiveTime="PT4M43.2262862S">
+      <ModifiedDate>2021-02-01T15:24:27.7438603+01:00</ModifiedDate>
       <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Books\Index.cshtml</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
       <CreatedDate>2021-01-21T16:18:44.7013997+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT34M46.7305722S" EditActiveTime="PT17M32.4726254S">
+      <ModifiedDate>2021-02-04T15:37:16.341172+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>5</EditedCount>
+      <ViewedCount>5</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Book\Index.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T15:37:12.5063994+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M28.435022S" EditActiveTime="PT5M15.5241059S">
+      <ModifiedDate>2021-02-01T17:04:39.319616+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Home\Info.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T16:51:39.8608957+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT24M27.7224062S" EditActiveTime="PT9M28.6849241S">
+      <ModifiedDate>2021-02-04T15:41:09.1263324+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Book\Info.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-04T00:25:09.7895785+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
     <DevTrackerDataItem ViewActiveTime="PT18.6341993S" EditActiveTime="PT0S">
@@ -431,11 +295,11 @@
       <CreatedDate>2021-01-20T23:51:42.5422474+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT38.3671507S" EditActiveTime="PT4M30.8405239S">
-      <ModifiedDate>2021-01-21T13:34:45.7786119+01:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT9M44.7656938S" EditActiveTime="PT4M36.7155943S">
+      <ModifiedDate>2021-02-01T19:08:59.6643013+01:00</ModifiedDate>
       <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Account\Login.cshtml</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
@@ -453,11 +317,11 @@
       <CreatedDate>2021-01-21T12:22:07.2721494+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M23.5404636S" EditActiveTime="PT23.1989024S">
+    <DevTrackerDataItem ViewActiveTime="PT2M29.2567561S" EditActiveTime="PT23.1989024S">
       <ModifiedDate>2021-01-21T15:27:20.4736966+01:00</ModifiedDate>
       <ModifiedBy>mikol</ModifiedBy>
       <EditedCount>2</EditedCount>
-      <ViewedCount>2</ViewedCount>
+      <ViewedCount>4</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\ViewModels\LoginViewModel.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
@@ -484,11 +348,11 @@
       <CreatedDate>2021-01-21T11:52:12.5438919+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3M40.3128613S" EditActiveTime="PT5M41.1524565S">
-      <ModifiedDate>2021-01-21T13:22:43.0820146+01:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT3M55.9834041S" EditActiveTime="PT5M53.9017301S">
+      <ModifiedDate>2021-02-01T19:08:56.3420995+01:00</ModifiedDate>
       <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>2</ViewedCount>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>3</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Account\Register.cshtml</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
@@ -516,22 +380,22 @@
       <CreatedDate>2021-01-21T12:22:18.2066098+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT41.6645788S" EditActiveTime="PT48.7203906S">
+    <DevTrackerDataItem ViewActiveTime="PT55.8295083S" EditActiveTime="PT48.7203906S">
       <ModifiedDate>2021-01-21T15:27:03.5572033+01:00</ModifiedDate>
       <ModifiedBy>mikol</ModifiedBy>
       <EditedCount>2</EditedCount>
-      <ViewedCount>2</ViewedCount>
+      <ViewedCount>4</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\ViewModels\RegisterViewModel.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
       <CreatedDate>2021-01-21T13:07:47.1264409+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT18M33.5455962S" EditActiveTime="PT8M15.0999447S">
-      <ModifiedDate>2021-01-21T16:49:27.061464+01:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT18M53.4889967S" EditActiveTime="PT8M26.1583957S">
+      <ModifiedDate>2021-02-01T16:32:13.3973797+01:00</ModifiedDate>
       <ModifiedBy>mikol</ModifiedBy>
-      <EditedCount>4</EditedCount>
-      <ViewedCount>4</ViewedCount>
+      <EditedCount>5</EditedCount>
+      <ViewedCount>5</ViewedCount>
       <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Startup.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
@@ -549,14 +413,94 @@
       <CreatedDate>2021-01-20T23:30:13.3708056+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT49.415688S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT22.503265S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
+      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.__EFMigrationsHistory.sql</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-03T00:37:54.3729055+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.3899217S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.AspNetRoleClaims.sql</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-03T00:37:52.9774679+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.5786247S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.AspNetRoles.sql</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-03T00:37:51.3938394+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.4609031S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.AspNetUserClaims.sql</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-03T00:37:48.9284319+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.0935719S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.AspNetUserLogins.sql</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-03T00:37:46.8228789+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.7675837S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.AspNetUserRoles.sql</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-03T00:37:45.0513026+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT51.6668476S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.AspNetUsers.sql</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName />
       <CreatedDate>2021-01-21T15:25:49.8542759+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.7257355S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.AspNetUserTokens.sql</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-03T00:37:41.0694155+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8M9.1013599S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.Bookshelf.sql</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-01T15:47:41.3779517+01:00</CreatedDate>
       <ViewedBy>mikol</ViewedBy>
     </DevTrackerDataItem>
     <DevTrackerDataItem ViewActiveTime="PT9.2616987S" EditActiveTime="PT32.8770314S">
@@ -572,6 +516,639 @@
     </DevTrackerDataItem>
   </TotalTimeList>
   <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT2M7.7764578S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\BookController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-04T16:09:09.480533+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.0794423S" EditActiveTime="PT6.5433884S">
+      <ModifiedDate>2021-02-04T15:57:26.846394+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\ViewModels\BookViewModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-04T15:57:17.7164172+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.8615213S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Models\Book.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-04T15:57:15.8543966+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT27.5000827S" EditActiveTime="PT6.1113407S">
+      <ModifiedDate>2021-02-04T15:58:47.7500415+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\BookController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-04T15:56:51.0019202+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.2039969S" EditActiveTime="PT2M0.7640838S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-04T15:37:22.1757976+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT44.5392752S" EditActiveTime="PT20.4164766S">
+      <ModifiedDate>2021-02-04T15:37:16.341172+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Book\Index.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-04T15:36:40.6764152+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10M13.9315681S" EditActiveTime="PT5.8002047S">
+      <ModifiedDate>2021-02-04T15:41:09.1263324+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Book\Info.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-04T15:20:53.0336385+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT21.1627472S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\HomeController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-04T01:28:15.0751285+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT26.1585508S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\AccountController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-04T01:27:48.9160782+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.0405095S" EditActiveTime="PT15M7.0987346S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-04T00:32:16.7126194+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.8115132S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Models\Book.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-04T00:30:46.2330396+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14M13.7928349S" EditActiveTime="PT9M22.8847194S">
+      <ModifiedDate>2021-02-04T02:07:24.5745152+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Book\Info.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-04T00:25:09.7895785+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M39.8112424S" EditActiveTime="PT3.1231078S">
+      <ModifiedDate>2021-02-04T00:28:55.4520803+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Book\Index.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-04T00:24:32.4676168+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12M16.7123149S" EditActiveTime="PT4M25.8927641S">
+      <ModifiedDate>2021-02-04T01:29:03.1621316+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\BookController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-03T21:45:31.8692091+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT43.6124286S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\BookController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-03T01:47:23.5870561+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17.3830324S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-03T00:53:23.0064186+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M5.2858519S" EditActiveTime="PT1M17.8183528S">
+      <ModifiedDate>2021-02-03T00:58:26.3857946+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Book\Index.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-03T00:52:12.1309157+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT22.503265S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.__EFMigrationsHistory.sql</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-03T00:37:54.3729055+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.3899217S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.AspNetRoleClaims.sql</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-03T00:37:52.9774679+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.5786247S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.AspNetRoles.sql</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-03T00:37:51.3938394+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.4609031S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.AspNetUserClaims.sql</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-03T00:37:48.9284319+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.0935719S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.AspNetUserLogins.sql</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-03T00:37:46.8228789+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.7675837S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.AspNetUserRoles.sql</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-03T00:37:45.0513026+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.2511596S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.AspNetUsers.sql</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-03T00:37:42.7986446+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.7257355S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.AspNetUserTokens.sql</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-03T00:37:41.0694155+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10M42.7467338S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Models\AppDBContext\AppDbContext.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-03T00:02:21.6878362+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT58.4860252S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\ViewModels\LoginViewModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-02T23:58:23.7469035+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.1450727S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\ViewModels\RegisterViewModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-02T23:58:22.6013318+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.7309516S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Models\Book.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-02T23:58:19.3759587+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.0128952S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\ViewModels\BookViewModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-02T23:58:08.8975952+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M12.9519567S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\AccountController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-02T23:58:03.9917311+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.0353274S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\HomeController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-02T23:58:02.9559051+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M18.6579722S" EditActiveTime="PT36.3912126S">
+      <ModifiedDate>2021-02-03T00:44:49.9640638+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\BookController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-02T23:54:01.8457019+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M33.4568132S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.Bookshelf.sql</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-02T23:53:11.1420843+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M57.592119S" EditActiveTime="PT21.5394447S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-02T23:52:29.4445145+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT16M40.1905822S" EditActiveTime="PT2M5.4667293S">
+      <ModifiedDate>2021-02-03T00:48:51.6541473+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Book\Index.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-02T23:41:00.3700208+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7.2539863S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Models\AppDBContext\AppDbContext.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T18:29:10.1404038+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.0198568S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\ViewModels\RegisterViewModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T17:26:51.57703+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7.2302673S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\ViewModels\LoginViewModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T17:26:48.3314304+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT15.6705428S" EditActiveTime="PT12.7492736S">
+      <ModifiedDate>2021-02-01T19:08:56.3420995+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Account\Register.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T17:11:33.3140484+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9M6.3985431S" EditActiveTime="PT5.8750704S">
+      <ModifiedDate>2021-02-01T19:08:59.6643013+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Account\Login.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T17:11:32.0110205+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M28.435022S" EditActiveTime="PT5M15.5241059S">
+      <ModifiedDate>2021-02-01T17:04:39.319616+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Home\Info.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T16:51:39.8608957+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.5582054S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\_ViewStart.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T16:29:23.3887058+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M3.249396S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\_ViewImports.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T16:29:22.4201927+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.1721376S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Shared\_ValidationScriptsPartial.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T16:29:20.2168086+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M35.4804353S" EditActiveTime="PT1M54.2830866S">
+      <ModifiedDate>2021-02-01T19:09:32.5558736+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Shared\_Layout.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T16:29:19.1809031+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6M35.6445467S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Projekt_ASP/True/SqlTable/dbo.Bookshelf.sql</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-01T15:47:41.3779517+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT19.9434005S" EditActiveTime="PT11.058451S">
+      <ModifiedDate>2021-02-01T16:32:13.3973797+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Startup.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T15:46:57.9305898+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT20M7.4822734S" EditActiveTime="PT25M30.1508798S">
+      <ModifiedDate>2021-02-01T21:22:54.3940182+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\BookController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T15:37:30.2926012+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13M36.9081133S" EditActiveTime="PT13M45.6479589S">
+      <ModifiedDate>2021-02-01T21:46:42.8109832+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Book\Index.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T15:37:12.5063994+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT51.4087898S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Migrations\20210121111315_IdentityDBUser.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T15:35:59.3261602+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.0518741S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Migrations\AppDbContextModelSnapshot.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T15:35:56.2732878+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M59.8349437S" EditActiveTime="PT22.7136203S">
+      <ModifiedDate>2021-02-01T19:10:46.200556+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\HomeController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T15:15:03.9341672+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M9.8544801S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\AccountController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T15:05:57.0027388+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M55.5391642S" EditActiveTime="PT1M54.5205149S">
+      <ModifiedDate>2021-02-01T20:44:35.263523+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Models\Book.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T15:04:47.4519214+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M25.9303887S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Helpers\DbHelper.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T15:04:23.0874914+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M52.3622031S" EditActiveTime="PT1M0.6226873S">
+      <ModifiedDate>2021-02-01T21:06:40.848523+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\ViewModels\BookViewModel.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T15:04:05.5143988+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M37.6423556S" EditActiveTime="PT12M3.1157616S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-02-01T15:02:50.6671744+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M54.1503514S" EditActiveTime="PT1M44.9526287S">
+      <ModifiedDate>2021-02-01T15:24:27.7438603+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Books\Index.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T15:02:21.7523872+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M16.2594111S" EditActiveTime="PT6M23.2891843S">
+      <ModifiedDate>2021-02-01T17:41:18.7975562+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Views\Home\Index.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T15:02:20.2149589+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT27M5.1673577S" EditActiveTime="PT1M59.2799385S">
+      <ModifiedDate>2021-02-01T15:31:43.8253354+01:00</ModifiedDate>
+      <ModifiedBy>mikol</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Controllers\BooksController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\mikol\Desktop\Projekt ASP CDV\Projekt ASP\Projekt ASP\Projekt ASP.csproj</ProjectName>
+      <CreatedDate>2021-02-01T14:22:19.8268791+01:00</CreatedDate>
+      <ViewedBy>mikol</ViewedBy>
+    </DevTrackerDataItem>
     <DevTrackerDataItem ViewActiveTime="PT3.4835276S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>

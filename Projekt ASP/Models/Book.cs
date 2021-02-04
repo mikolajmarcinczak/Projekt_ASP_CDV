@@ -32,7 +32,6 @@ namespace Projekt_ASP.Models
         [MaxLength(2000, ErrorMessage = "Opis nie może przekraczać dwóch tysięcy znaków!")]
         [Display(Name = "Opis")]
         public string Description { get; set; }
-        [Required]
         [MinLength(2, ErrorMessage = "Ścieżka musi posiadać co najmniej dwia znaki!")]
         [MaxLength(200, ErrorMessage = "Ścieżka nie może przekraczać dwustu znaków!")]
         [Display(Name = "Ścieżka do zdjęcia")]

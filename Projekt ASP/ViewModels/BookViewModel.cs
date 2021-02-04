@@ -4,6 +4,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Threading.Tasks;
 using Dapper;
+using Microsoft.AspNetCore.Http;
 using Projekt_ASP.Helpers;
 using Projekt_ASP.Models;
 
@@ -16,11 +17,13 @@ namespace Projekt_ASP.Models
             using (var db = DbHelper.GetConnection())
             {
                 this.EditableItem = new Book();
-                this.Bookshelf = db.Query<Book>("SELECT * FROM Bookshelf ORDER BY ReleaseDate DESC").ToList();
+                this.Bookshelf = db.Query<Book>("SELECT * FROM Bookshelf ORDER BY Author ASC").ToList();
             }
         }
 
         public List<Book> Bookshelf { get; set; }
         public Book EditableItem { get; set; }
+
+        public IFormFile file { get; set; }
     }
 }
